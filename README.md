@@ -40,7 +40,7 @@ To enable default key mappings, add folow line to your `.vimrc`.
 let g:iced_enable_default_key_mappings = v:true
 ```
 
-See [vim-iced.txt](./doc/vim-iced.txt) fot actual mappings.
+See [vim-iced.txt](./doc/vim-iced.txt) for actual mappings.
 
 ### ~/.lein/profile.clj
 
